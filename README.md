@@ -11,6 +11,6 @@ Funcionalidades:
   *Marcar tarefas como concluidas
 
 Como rodar o projeto:
-  *É nescessario ter o SDK do .Net intalado
+  *É necessário ter o SDK do .Net 
   1 - No terminal, navegue até a pasta do projeto
   2 - Compile e execute 
